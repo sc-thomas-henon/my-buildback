@@ -1,1 +1,0 @@
-FROM docker:28.4.0-dind-rootless
